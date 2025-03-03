@@ -1,7 +1,7 @@
 
 <a id="TMP_666a"></a>
 
-# My super notebook 
+# My super notebook  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/AI-demos)
 <!-- Begin Toc -->
 
 ## Table of Contents
